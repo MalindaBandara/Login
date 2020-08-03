@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Electronic-key1.png</file>
+        <file>key-in-lock-2.jpg</file>
+        <file>perdido-key-.jpg</file>
+        <file>SSH-Keys.png</file>
+    </qresource>
+</RCC>
